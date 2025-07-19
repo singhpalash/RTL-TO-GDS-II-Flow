@@ -1,6 +1,13 @@
 # RTL-TO-GDS-II-Flow
 Physical Design of Sequential ALU
 
+### Table of Contents
+1) Project Objectives
+2) Design Specifications
+3) RTL-to-GDSII Flow Steps
+4) Learnings
+5) Conclusion
+
 ### 📌 Project Objectives
 1) Design and verify a 4-bit sequential Arithmetic Logic Unit (ALU) at RTL level.
 
