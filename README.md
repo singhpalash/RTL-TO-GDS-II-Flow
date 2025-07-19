@@ -1,7 +1,7 @@
 # RTL-TO-GDS-II-Flow
 Physical Design of Sequential ALU
 
-### Table of Contents
+### 🗂️ Table of Contents
 1) Project Objectives
 2) Design Specifications
 3) RTL-to-GDSII Flow Steps
