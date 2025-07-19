@@ -26,37 +26,37 @@ Physical Design of Sequential ALU
 
 ### 🚀 RTL-to-GDSII Flow Steps
 
-#### RTL Design & Simulation
+#### 1) RTL Design & Simulation
 
 - Developed Verilog code for ALU and testbench.
 
 - Verified functionality via simulation.
 
-#### Synthesis
+#### 2) Synthesis
 
 - Performed synthesis with timing constraints.
 
 - Generated gate-level netlist and SDC.
 
-#### Floorplanning & Power Planning
+#### 3) Floorplanning & Power Planning
 
 - Defined die/core area, IO placement.
 
 - Inserted power rings and stripes.
 
-#### Placement & CTS
+#### 4) Placement & CTS
 
 - Standard cell placement and legalization.
 
 - Clock tree synthesized with minimal skew.
 
-#### Routing
+#### 5) Routing
 
 - Completed global and detailed routing.
 
 - Ensured DRC-clean layout.
 
-#### Signoff Checks
+#### 6) Signoff Checks
 
 - Static Timing Analysis (STA): Met setup/hold requirements.
 
@@ -64,7 +64,7 @@ Physical Design of Sequential ALU
 
 - Power Analysis - There was no major power leakage or dissipation spots
 
-#### GDSII: Final layout file ready for tapeout.
+#### 7) GDSII: Final layout file ready for tapeout.
 
 ### 📚 Learnings
 - Understood the full RTL to GDSII flow used in ASIC industry.
