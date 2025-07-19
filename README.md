@@ -67,10 +67,10 @@ Physical Design of Sequential ALU
 #### 7) GDSII: Final layout file ready for tapeout.
 
 ### Tools and Technologies
-Synthesis- Cadence Genus
-Physical Design - Cadence Innovus
-Signoff Timing - Cadence Tempus
-Signoff Power - Cadence Voltus
+- Synthesis- Cadence Genus
+- Physical Design - Cadence Innovus
+- Signoff Timing - Cadence Tempus
+- Signoff Power - Cadence Voltus
 
 
 ### 📚 Learnings
