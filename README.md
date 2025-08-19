@@ -1,5 +1,5 @@
 # RTL-TO-GDS-II-Flow
-RTL TO GDS-II flow of Floating Point ALU
+RTL TO GDS-II flow of Sequential ALU
 
 ###  Table of Contents
 1) Project Objectives
@@ -9,7 +9,7 @@ RTL TO GDS-II flow of Floating Point ALU
 5) Conclusion
 
 ###  Project Objectives
-1) Design and verify a 32-bit Floating point Arithmetic Logic Unit (ALU) at RTL level.
+1) Design and verify a 32-bit Sequential Arithmetic Logic Unit (ALU) at RTL level.
 
 2) Perform complete ASIC physical design flow, including synthesis, floorplanning, placement, CTS, routing, and signoff.
 
